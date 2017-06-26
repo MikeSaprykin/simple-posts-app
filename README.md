@@ -1,10 +1,10 @@
-#Simple Posts App
+# Simple Posts App
 
-###Introduction
+### Introduction
 This is a simple React/Redux posts app, featuring Redux Forms and React Router.
 All posts API are public
 
-###Getting Started
+### Getting Started
 
 ```
 > git clone https://github.com/MikeSaprykin/simple-posts-app.git
