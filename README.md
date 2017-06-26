@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
+#Simple Posts App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+###Introduction
+This is a simple React/Redux posts app, featuring Redux Forms and React Router.
+All posts API are public
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+###Getting Started
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/MikeSaprykin/simple-posts-app.git
+> cd simple-posts-app
 > npm install
 > npm start
 ```
